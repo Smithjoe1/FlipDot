@@ -1,0 +1,15 @@
+PanelRes width*height=7x4=COM1
+data/196x56px_PACMAN_1_ANIM.gif
+data/196x56px_PACMAN_2_ANIM.gif
+data/196x56px_pattern_FLEURDELIS_2.gif
+data/196x56px_pattern_FLOBRO.gif
+data/196x56px_pattern_INCA.gif
+data/196x56px_pattern_ISLAMIC2.gif
+data/196x56px_pattern_ISLAMIC3.gif
+data/196x56px_pattern_JAPANESE.gif
+data/196x56px_pattern_MORROCAN.gif
+data/196x56px_pattern_ORIENTAL.gif
+data/196x56px_pattern_PACIFICISLAND.gif
+data/196x56px_nudge.gif
+data/White.gif
+data/Black.gif
